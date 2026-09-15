@@ -1,0 +1,6 @@
+{
+  "name": "Recreo Las Vegas",
+  "description": "Centro de entretenimiento, grandes eventos en vivo, conciertos de cumbia y folklore, y alquiler de canchas de grass sintético en Ayacucho, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
